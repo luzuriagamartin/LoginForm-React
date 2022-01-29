@@ -102,6 +102,3 @@ const onChange = (e) => {
 
 export default App
 
-
-
-
